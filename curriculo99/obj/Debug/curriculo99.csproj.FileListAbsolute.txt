@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\curriculo99\curriculo99\bin\Debug\curriculo99.exe.config
+C:\Users\Tecnico\source\repos\curriculo99\curriculo99\bin\Debug\curriculo99.exe
+C:\Users\Tecnico\source\repos\curriculo99\curriculo99\bin\Debug\curriculo99.pdb
+C:\Users\Tecnico\source\repos\curriculo99\curriculo99\obj\Debug\curriculo99.csprojAssemblyReference.cache
+C:\Users\Tecnico\source\repos\curriculo99\curriculo99\obj\Debug\curriculo99.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\curriculo99\curriculo99\obj\Debug\curriculo99.exe
+C:\Users\Tecnico\source\repos\curriculo99\curriculo99\obj\Debug\curriculo99.pdb
